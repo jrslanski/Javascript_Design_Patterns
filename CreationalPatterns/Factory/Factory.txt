@@ -1,0 +1,11 @@
+Motivation
+
+Object creation logic becomes too convoluted.
+Wholesale object creation can be outsourced to:
+    - A separate method (Factory method)
+    - That may exist in a separate class (Factory)
+    - Can create hierarchy of factories with Abstract Factory
+
+
+"A component responsible solely for the wholesale (not piecewise)
+creation of objects."

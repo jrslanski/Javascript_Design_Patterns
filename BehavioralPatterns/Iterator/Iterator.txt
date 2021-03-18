@@ -1,0 +1,15 @@
+
+
+Motivation:
+- Iteration is a core functionality of various data structures.
+- An iterator is a class that facilitates the traversal
+    - Keeps a reference to the current element
+    - Knows how to move to a different element
+
+- Javascript supports this through:
+    - Symbol.iterator member that returns
+    - An iterator object with a function called next() that
+    returns an object containing:
+        - The value being iterated
+        - The done flag indicating whether iteration is finished.
+    - An interator object itself can also be made iterable.

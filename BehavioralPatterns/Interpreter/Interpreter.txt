@@ -1,0 +1,12 @@
+Motivation:
+-Textual input needs to be processed
+-Some examples:
+    - Programming language compilers, IDEs, etc.
+    -HTML, XML, and similar
+    - Numeric expressions
+
+-Turning strings into OOP based structures in a complicated process.
+
+Interpreter: A component that processes structured text data. Does so by turning it into
+separate lexical tokens (lexing) and then interpreting sequences of said tokens(parsing).
+

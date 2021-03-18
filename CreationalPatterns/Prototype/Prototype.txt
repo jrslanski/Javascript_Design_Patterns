@@ -1,0 +1,5 @@
+*Complicated objects (e.g., cars) aren't designed from scratch.
+*An existing (partially or fully constructed) design is a Prototype
+
+Prototype: A partially or fully initialezed object that you copy and customize.
+

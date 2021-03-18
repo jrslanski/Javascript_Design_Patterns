@@ -1,0 +1,10 @@
+System behaviour partially specified at runtime.
+
+Motivation:
+- Many algoritms can be decomposed into higher- and lower- level parts
+- The high-level algorithm can then be reused for making coffe or hot chocolate
+
+
+Strategy:
+Enables the exact behaviour of a system to be selected at run-time.
+

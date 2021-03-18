@@ -1,0 +1,13 @@
+Motivation:
+
+- Consider an ordinary telephone
+- What you do with it depends on the state of the phone/line.
+- Changes in state can be explicit or in response to events (Observer patterns)
+
+
+State:
+
+A pattern in which the object's behavior is determined by its sate. An object transitions
+from one state to another (something needs to trigger a transition).
+
+A formalized construct which manages state and transitions is called a state machine.

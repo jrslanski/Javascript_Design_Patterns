@@ -1,0 +1,12 @@
+Facade: Exposing several component through a single interface.
+
+Motivation:
+-Balancing complexity and presentation/usability.
+-Typical home:
+    -Many subsystems (electrical, sanitation)
+    -Complex internal structure.
+    -End user is not exposed to internals.
+
+-Same with software!
+
+**Provides a simple, easy to understand/user interface over a large and sophisticated body of code.
